@@ -1,0 +1,7 @@
+{
+  "name": "traits",
+  "version": "0.1.0",
+  "author": "Tom Van Cutsem",
+  "main": "./lib/traits",
+  "directories": "./lib"
+}
